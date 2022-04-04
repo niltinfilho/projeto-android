@@ -19,7 +19,7 @@
 
 :root {
     --cor0: #3ce488bd;
-    --cor1: #83e1ad;
+    --cor1: #8adcaf;
     --cor2: #3ddc84;
     --cor3: #2fa866;
     --cor4: #1a5c37;
@@ -67,8 +67,7 @@ header > p {
     font-size: 1.2em;
     max-width: 500px;
     margin: auto;
-    padding-right: 10px;
-    padding-left: 10px;
+    padding: 0px 10px 40px 10px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);
     border-bottom: 20px;
 }
